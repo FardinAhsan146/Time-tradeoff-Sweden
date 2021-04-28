@@ -1,0 +1,25 @@
+time,counts,color
+0,33,red
+1 month,15,red
+1 whole year,11,red
+3 months,9,red
+2 months,3,red
+6 months,2,red
+0 months,2,red
+2 years more,2,red
+1 year more,1,red
+0.2 months,1,red
+1 day,1,red
+1 day more,1,red
+1 month less ,1,green
+1 year less,1,green
+Infinity,1,red
+10 days,1,red
+8 months,1,red
+10 years,1,red
+2 whole year,1,red
+2 years,1,red
+3 whole years,1,red
+4 months,1,red
+5 years,1,red
+10 months,1,red
